@@ -1,0 +1,14 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>rast_c10</Description>
+    <NoDataValue le_hex_equiv="000000A0FFFFEFC7">-3.40282306073710E+038</NoDataValue>
+    <Metadata>
+      <MDI key="RepresentationType">ATHEMATIC</MDI>
+      <MDI key="STATISTICS_MAXIMUM">222.24000549316</MDI>
+      <MDI key="STATISTICS_MEAN">219.53709976196</MDI>
+      <MDI key="STATISTICS_MINIMUM">215.75</MDI>
+      <MDI key="STATISTICS_STDDEV">1.7003296172764</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
