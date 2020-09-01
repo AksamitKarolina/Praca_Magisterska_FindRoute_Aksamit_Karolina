@@ -28,5 +28,11 @@ To test this plugin you can use data from the "TestData" folder.
 
 ![App](pictures/1.JPG)
 
+![App](pictures/2.JPG)
+
+![App](pictures/3.JPG)
+
+![App](pictures/4.JPG)
+
 
 
