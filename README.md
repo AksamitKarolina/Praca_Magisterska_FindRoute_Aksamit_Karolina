@@ -26,5 +26,7 @@ To update code changes you can download "Plugin reloader".
 
 To test this plugin you can use data from the "TestData" folder.
 
+![GitHub Logo](/pictures/1.jpg)
+
 
 
